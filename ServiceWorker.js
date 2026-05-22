@@ -1,9 +1,9 @@
 const cacheName = "Koriem-Multiverse Girls Opalium-1.0.2";
 const contentToCache = [
-    "Build/Opl2.loader.js",
-    "Build/Opl2.framework.js.unityweb",
-    "Build/Opl2.data.unityweb",
-    "Build/Opl2.wasm.unityweb",
+    "Build/Opl3.loader.js",
+    "Build/Opl3.framework.js.unityweb",
+    "Build/Opl3.data.unityweb",
+    "Build/Opl3.wasm.unityweb",
     "TemplateData/style.css"
 
 ];

@@ -1,9 +1,9 @@
-const cacheName = "Koriem-Multiverse Girls Opalium-2.0.9";
+const cacheName = "Koriem-Multiverse Girls Opalium-2.0.10";
 const contentToCache = [
-    "Build/webgl-mobile-2.0.9.loader.js",
-    "Build/webgl-mobile-2.0.9.framework.js",
-    "Build/webgl-mobile-2.0.9.data",
-    "Build/webgl-mobile-2.0.9.wasm",
+    "Build/webgl-mobile-2.0.10.loader.js",
+    "Build/webgl-mobile-2.0.10.framework.js",
+    "Build/webgl-mobile-2.0.10.data",
+    "Build/webgl-mobile-2.0.10.wasm",
     "TemplateData/style.css"
 
 ];
